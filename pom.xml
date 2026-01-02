@@ -207,9 +207,6 @@
  		</plugin>
 		
         </plugins>
-		 <properties>
-    <sonar-maven-plugin.version>3.11.0.3922</sonar-maven-plugin.version>
-</properties>
     <plugins>
         <plugin>
             <groupId>org.sonarsource.scanner.maven</groupId>
